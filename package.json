@@ -1,0 +1,16 @@
+{
+  "name": "terra-kaboom",
+  "source": "src/index.html",
+  "type": "module",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "kaboom": "^2000.1.8"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.1"
+  }
+}

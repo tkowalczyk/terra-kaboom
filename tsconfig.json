@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "jsxImportSource": "preact",
+        "isolatedModules": true,
+        "module": "esnext",
+        "moduleResolution": "node",
+        "resolveJsonModule": true
+    }
+}
